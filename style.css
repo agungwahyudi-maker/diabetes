@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(57, 54, 87);
+  font-family: sans-serif;
+}
+form,
+.container {
+  border: 1px solid salmon;
+  width: 400px;
+  margin: 100px auto;
+  border-radius: 30px;
+  padding: 10px 15px;
+}
+h2,
+p {
+  color: white;
+  text-align: center;
+}
+table {
+  margin: auto;
+  color: white;
+}
+td {
+  padding: 0px 11px 10px;
+}
+#submit {
+  padding-left: 60px;
+}
+img {
+  padding-left: 75px;
+  width: 254px;
+}
